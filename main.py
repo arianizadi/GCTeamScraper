@@ -32,7 +32,9 @@ team_total = 0
 for student in students:
     balance = getBalance(students[student])
     team_total += balance
-    print("{} has {} tokens".format(student, balance))
+    print("{:>15}: {:<15}".format(student, balance))
 
-print("Team total: {}".format(team_total))
-print("Team average: {}".format(team_total / len(students)))
+print("-" * 30)
+print("{:>15}: {:<15}".format("Team total", team_total))
+print("{:>15}: {:<15}".format("Team average", team_total / len(students)))
+print("-" * 30)

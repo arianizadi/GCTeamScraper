@@ -28,6 +28,9 @@ def getBalance(url: str) -> int:
     return balance
 
 
+print("-" * 30)
+print("{:>15}: {:<15}".format("Student", "Balance"))
+print("-" * 30)
 team_total = 0
 for student in students:
     balance = getBalance(students[student])

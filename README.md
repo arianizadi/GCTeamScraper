@@ -2,7 +2,7 @@
 
 <div align="center">
     <img src="/assets/logo.webp" alt="Logo" height="80">
-  <h3 align="center">GenCyber Coin Scraper</h3>
+  <h1 align="center">GenCyber Coin Scraper</h3>
 
   <p align="center">
     A project aimed to easily grab student's coin balances from the mumbai polygon testnet.

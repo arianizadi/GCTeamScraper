@@ -5,7 +5,7 @@
   <h1 align="center">GenCyber Coin Scraper</h3>
 
   <p align="center">
-    A project aimed to easily grab student's coin balances from the mumbai polygon testnet.
+    A project aimed to easily grab students' coin balances from the Mumbai polygon testnet.
     </br>
   </p>
 </div>
@@ -14,7 +14,7 @@
 
 ![Product Name Screen Shot](/assets/usage.png)
 
-As a GenCyber Teaching Assistant, we faced the challenge of manually counting Polygon Test Coins earned by students for ranking and daily prizes. This process was time-consuming and prone to errors. To address this issue, I created a web scraper using Python that automated the data retrieval from the blockchain explorer, accurately calculating each team's total points. The web scraper streamlined the ranking process, saving time and ensuring a fair competition for all participants.
+As a GenCyber Teaching Assistant, we faced the challenge of manually counting Polygon Test Coins earned by students for ranking and daily prizes. This process was time-consuming and prone to errors. To address this issue, I created a web scraper using Python that automated the data retrieval from the blockchain explorer, accurately calculating each team's total points. The web scraper streamlined the ranking process, saving time and ensuring fair competition for all participants.
 
 ### Technologies Utilized
 
